@@ -47,8 +47,6 @@ Cisco Packet Tracer, Cisco IOS CLI, VLANs, DHCP, Inter-VLAN Routing, and Trunk L
 ## Files Included
 
 * project.pkt – Cisco Packet Tracer project file
-* Network_Topology.png – screenshot of the topology (to be added)
-* Report.pdf – project explanation and documentation
 
 ---
 
